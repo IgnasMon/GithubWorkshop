@@ -1,0 +1,17 @@
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\bin\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.exe
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\bin\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.deps.json
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\bin\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.runtimeconfig.json
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\bin\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.dll
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\bin\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.pdb
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.csproj.AssemblyReference.cache
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.Form1.resources
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.csproj.GenerateResource.cache
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.AssemblyInfoInputs.cache
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.AssemblyInfo.cs
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.csproj.CoreCompileInputs.cache
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.dll
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\refint\WeLearntoUseGithubTheGayWay.dll
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.pdb
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\WeLearntoUseGithubTheGayWay.genruntimeconfig.cache
+C:\Users\joas\Source\Repos\IgnasMon\GithubWorkshop\WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay\obj\Debug\net6.0-windows\ref\WeLearntoUseGithubTheGayWay.dll
