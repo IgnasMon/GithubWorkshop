@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeLearntoUseGithubTheGayWay", "WeLearntoUseGithubTheGayWay\WeLearntoUseGithubTheGayWay.csproj", "{E34DAF09-D559-41EB-936C-B5C0AF1A857C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ignas-RandomWindowsFormShit", "Ignas-RandomWindowsFormShit\Ignas-RandomWindowsFormShit.csproj", "{283EDF82-6F4E-44C5-9637-1DB01B15B51D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E34DAF09-D559-41EB-936C-B5C0AF1A857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E34DAF09-D559-41EB-936C-B5C0AF1A857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E34DAF09-D559-41EB-936C-B5C0AF1A857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E34DAF09-D559-41EB-936C-B5C0AF1A857C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283EDF82-6F4E-44C5-9637-1DB01B15B51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283EDF82-6F4E-44C5-9637-1DB01B15B51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283EDF82-6F4E-44C5-9637-1DB01B15B51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283EDF82-6F4E-44C5-9637-1DB01B15B51D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\bin\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.exe
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\bin\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.deps.json
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\bin\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.runtimeconfig.json
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\bin\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.dll
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\bin\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.pdb
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.csproj.AssemblyReference.cache
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas_RandomWindowsFormShit.Form1.resources
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.csproj.GenerateResource.cache
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.AssemblyInfoInputs.cache
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.AssemblyInfo.cs
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.csproj.CoreCompileInputs.cache
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.dll
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\refint\Ignas-RandomWindowsFormShit.dll
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.pdb
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\Ignas-RandomWindowsFormShit.genruntimeconfig.cache
+C:\Users\ignas\source\repos\GithubWorkshops\WeLearntoUseGithubTheGayWay\Ignas-RandomWindowsFormShit\obj\Debug\net6.0-windows\ref\Ignas-RandomWindowsFormShit.dll

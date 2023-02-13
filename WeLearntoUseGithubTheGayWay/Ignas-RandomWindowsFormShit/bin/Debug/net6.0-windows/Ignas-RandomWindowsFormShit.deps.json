@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ignas-RandomWindowsFormShit/1.0.0": {
+        "runtime": {
+          "Ignas-RandomWindowsFormShit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ignas-RandomWindowsFormShit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

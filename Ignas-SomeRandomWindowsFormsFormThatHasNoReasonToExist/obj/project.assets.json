@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignas\\source\\repos\\GithubWorkshops\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj",
-      "projectName": "WeLearntoUseGithubTheGayWay",
-      "projectPath": "C:\\Users\\ignas\\source\\repos\\GithubWorkshops\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj",
+      "projectUniqueName": "C:\\Users\\ignas\\source\\repos\\GithubWorkshops\\Ignas-SomeRandomWindowsFormsFormThatHasNoReasonToExist\\Ignas-SomeRandomWindowsFormsFormThatHasNoReasonToExist.csproj",
+      "projectName": "Ignas-SomeRandomWindowsFormsFormThatHasNoReasonToExist",
+      "projectPath": "C:\\Users\\ignas\\source\\repos\\GithubWorkshops\\Ignas-SomeRandomWindowsFormsFormThatHasNoReasonToExist\\Ignas-SomeRandomWindowsFormsFormThatHasNoReasonToExist.csproj",
       "packagesPath": "C:\\Users\\ignas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignas\\source\\repos\\GithubWorkshops\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\obj\\",
+      "outputPath": "C:\\Users\\ignas\\source\\repos\\GithubWorkshops\\Ignas-SomeRandomWindowsFormsFormThatHasNoReasonToExist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
