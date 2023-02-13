@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj": {}
+    "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\ViacheslavWidnows\\ViacheslavWidnows.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj": {
+    "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\ViacheslavWidnows\\ViacheslavWidnows.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj",
-        "projectName": "WeLearntoUseGithubTheGayWay",
-        "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj",
+        "projectUniqueName": "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\ViacheslavWidnows\\ViacheslavWidnows.csproj",
+        "projectName": "ViacheslavWidnows",
+        "projectPath": "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\ViacheslavWidnows\\ViacheslavWidnows.csproj",
         "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\obj\\",
+        "outputPath": "C:\\Users\\Gebruiker\\source\\repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\ViacheslavWidnows\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
