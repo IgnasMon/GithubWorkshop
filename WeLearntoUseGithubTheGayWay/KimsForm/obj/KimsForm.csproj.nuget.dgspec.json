@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj": {}
+    "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\KimsForm\\KimsForm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj": {
+    "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\KimsForm\\KimsForm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj",
-        "projectName": "WeLearntoUseGithubTheGayWay",
-        "projectPath": "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay.csproj",
+        "projectUniqueName": "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\KimsForm\\KimsForm.csproj",
+        "projectName": "KimsForm",
+        "projectPath": "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\KimsForm\\KimsForm.csproj",
         "packagesPath": "C:\\Users\\kimva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\WeLearntoUseGithubTheGayWay\\obj\\",
+        "outputPath": "C:\\Users\\kimva\\Source\\Repos\\IgnasMon\\GithubWorkshop\\WeLearntoUseGithubTheGayWay\\KimsForm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kimva\\AppData\\Roaming\\NuGet\\NuGet.Config",
